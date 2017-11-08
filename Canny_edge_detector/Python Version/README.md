@@ -1,2 +1,3 @@
 
-# The Python version of Edge Detector (include color combination and line segmentation part)
+# The Python version of Edge Detector
+Include color combination and line segmentation part.
