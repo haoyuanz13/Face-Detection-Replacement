@@ -114,4 +114,17 @@ end
  
 output1 = flipud(output1); % Flip matrix in up/down direction
 output2 = flipud(output2); % Same
+
+%% plot result
+figure
+subplot(2, 1, 1);
+imshow(ORIGINAL_IMAGE_1);
+title('The frame (K)');
+
+subplot(2, 1, 2);
+imshow(ORIGINAL_IMAGE_2);
+title('The frame (K + 1)');
+
+figure
 quiver(output1, output2); %plot optical flow vectors as arrows
+title('The optical flow');
