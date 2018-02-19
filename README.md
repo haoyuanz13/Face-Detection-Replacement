@@ -1,4 +1,4 @@
-# Face_Detection_Replacement
+# Face Detection & Replacement
 The package includes several fundamental image processing tools such as Edge detection, image morphing. 
 Based on those computer vision tools, completed a package that can detect and replace face automatically in image or videos.
 
