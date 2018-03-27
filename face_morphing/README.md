@@ -1,4 +1,19 @@
 # Image Warping and Face Morphing
+The package focuses on **_image morphing_** techniques. We produced a “morph” animation of one face into another person’s face. Finally, we generate around 60 frames of animation.
+
+
+Introduction
+------------
+A morph is a simultaneous warp of the image shape and a cross-dissolve of the image colors. The cross-dissolve is the easy part; controlling and doing the warp is the hard part. The warp is controlled by deﬁning a correspondence between the two pictures, either by automatical detection or hand-labeled by human. The correspondence should map eyes to eyes, mouth to mouth, chin to chin, ears to ears, etc., to get the smoothest transformations possible.
+
+
+Algorithms
+----------
+In terms of warping, two methods are well-popular used, _Forward Warping_ and _Inverse Warping_. Actually, the latter one is more recommended since the the inverse warping can eliminate black holes in the generated image.      
+
+Theoretically, the warping process can be decomposed into two sub-sections: 1) shape warping; 2) color cross-dissolve. For the shape warping, there are two typical approaches:
+* **_Triangulation Warping_**
+* **_Thin-Plate Spline (TPS)_**
 
 Usage
 -----
