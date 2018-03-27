@@ -8,7 +8,7 @@ All data are raw RGB images, stored in the folder **_train_images_**.
 
 Algorithms
 ----------
-The main algorithm is pretty straightforward, below shows a brief pipeline, and you can check the folder _reference_ for detailed explanation.
+The main algorithm is pretty straightforward, below shows a brief pipeline, and you can check the folder **_reference_** for detailed explanation.
 
 1. For each image, convert it into greyspace. 
 2. Use designed Gaussain kernel to calculate its corresponding gradient map (including magnitude and orientation) and make features more robust.
@@ -26,4 +26,8 @@ All source code store in the folder **_src_**, in addition, the folder **_edgeEv
 
 Results
 -------
-Please feel free to take a look at results with both ground truth and edge detected images.
+All results are stored in the folder **_results_**, directory **_Python Version/resHard_** and **_Python Version/resEasy_**, please feel free to take a look at them. Below show some demo obatined results.
+
+<div align=center>
+  <img width="500" height="250" src="./Python Version/resHard/figure_5.png", alt="demo"/>
+</div>
