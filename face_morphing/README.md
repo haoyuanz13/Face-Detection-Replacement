@@ -12,18 +12,22 @@ Algorithms
 In terms of warping, two methods are well-popular used, _Forward Warping_ and _Inverse Warping_. Actually, the latter one is more recommended since the the inverse warping can eliminate black holes in the generated image.      
 
 Theoretically, the warping process can be decomposed into two sub-sections: 1) shape warping; 2) color cross-dissolve. For the shape warping, there are two typical approaches:
-* **_Triangulation Warping_**
-* **_Thin-Plate Spline (TPS)_**
+* **_Triangulation Warping_**    
+  Base on correspondences to build a _delaunay triangular mesh_, and use the _barycentric coordinates consistent_ property to obtain the original positions for each pixel in the intermediate image.
+  
+* **_Thin-Plate Spline (TPS)_**   
+  Base on the correspondences in two images (source and target), compute corresponding _TPS parameters_ to obtain x and y coordinate for each pixel in the intermediate image.
 
-Usage
------
-The package focuses on face morphing techniques. A morph is a simultaneous warp of the image shape and a cross-dissolve of the image 
-colors. In the package, I implemented two basic morphing approaches, one is Triangulation morphing, the other is Thin Plate Spline (TPS).
+The color cross-dissolve is more straightforward, just set a weight factor between source and target image which plays a role as the color proportion of one image to another. Feel free to check the folder **_reference_** for more detailed algorithm explanantions.
 
-Package Clarification
----------------------
-Two main codes, 'tps_main.m' and 'Tria_main.m', using two morphing algorithms respectfully. The 'avi.m' is used to generated a video to show 
-the morphing process.
+
+Execution
+---------
+All source codes are stored in the folder **_src_**.
+* **_Tria_main.m_**: the main code to implement the Triangulation warping algorithm for face morphing.
+* **_tps_main.m_**: the main code to implement the TPS algorithm for face morphing. 
+* **_avi.m_**: generated a video to show the morphing process.
+
 
 Results
 -------
