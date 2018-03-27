@@ -29,5 +29,9 @@ Results
 All results are stored in the folder **_results_**, directory **_Python Version/resHard_** and **_Python Version/resEasy_**, please feel free to take a look at them. Below show some demo obatined results.
 
 <div align=center>
-  <img width="800" height="400" src="./Python Version/resHard/figure_5.png", alt="demo"/>
+  <img width="800" height="400" src="./Python Version/resHard/figure_5.png", alt="demo1"/>
+</div>
+
+<div align=center>
+  <img width="800" height="400" src="./Python Version/resEasy/figure_15.png", alt="demo2"/>
 </div>
