@@ -37,5 +37,5 @@ All results are stored in the folder **_results_**, directory **_Python Version/
 </div>
 
 <div align=center>
-  <img width="800" height="400" src="./Python Version/resEasy/figure_13.png", alt="demo3"/>
+  <img width="800" height="400" src="./Python Version/resEasy/figure_17.png", alt="demo3"/>
 </div>
