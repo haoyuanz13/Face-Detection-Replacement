@@ -1,3 +1,5 @@
+# Automatic 2D Image Mosaic
+
 Usage
 -----
 The package focuses on image feature detection, construction, matching and image mosaic techniques. Finally, the package can generate 
