@@ -35,5 +35,5 @@ All result videos are stored in the folder **_results_**. Each video shows a fac
 
 Below shows a simple test morphing resut using a triangular mesh. All intermediate images are obtained via either TPS or Triangulation method. 
 <div align=center>
-  <img width="400" height="400" src="./results/eval_test.gif", alt="demo1"/>
+  <img width="300" height="300" src="./results/eval_test.gif", alt="demo1"/>
 </div>
