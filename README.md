@@ -8,7 +8,7 @@ Feature plays an important role in the object (e.g, face region) detection. Here
 * _**Canny edge detector**_    
   Detect and extract edge information for images, finally succeed to build corresponding Canny Edge Image.
   
-* _**Automatic 2Dimage mosaic**_       
+* _**Automatic 2D image mosaic**_       
   Construct a panorama given several images that have some common regions along with detected SIFT features for the image stitching.
 
 Those above sub-packages play roles as feature detection, construction and matching tools that will be 
