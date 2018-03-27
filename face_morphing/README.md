@@ -1,4 +1,4 @@
-# Image Warpping and Face Morphing
+# Image Warping and Face Morphing
 
 Usage
 -----
