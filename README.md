@@ -5,10 +5,13 @@ Based on those computer vision tools, completed a package that can detect and re
 Feature detection tools
 -----
 Feature plays an important role in the object (e.g, face region) detection. Here, we implemented three base algorithms playing with several type of features (e.g. edge, corner) and achieved some contributions.    
-* _**canny_edge_detector**_    
+* _**Canny edge detector**_    
   Detect and extract edge information for images, finally succeed to build corresponding Canny Edge Image.
+
+* _**Face Morphing**_      
+  Achieved face warping given two different faces with detected correspondences, using _Delaunay Triangulation_ and _TPS(Thin-Plate Spline)_ algorithms.
   
-*automatic_2Dimage_mosaic* play roles as feature detection, construction and matching tools that will be 
+* _**Automatic 2Dimage mosaic**_ play roles as feature detection, construction and matching tools that will be 
 used in the face detection part, and combine with Eigen face and GMM model of human skin color, improves the detection accuracy.
 
 Face replacement tools
