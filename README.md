@@ -16,8 +16,10 @@ used in the major face detection section, then combine with the built Eigen face
 
 Face replacement tools
 ----------------------
+Given the target and interested face regions, some optimal image morphing methods are necessary to achieve a good face replacement performance for each video frame.
 
 * _**Face Morphing**_      
   Achieved face warping given two different faces with detected correspondences, using _Delaunay Triangulation_ and _TPS(Thin-Plate Spline)_ algorithms.
-The package *face_morphing* and *gradient_domian_blending* provide the basic structure of face replacement algorithm that make the 
-face replacement more smoothly and well-look.
+
+* _**Gradient domian blending**_       
+  Applied the gradient information, make the face replacement region more smoothly and well-look.
