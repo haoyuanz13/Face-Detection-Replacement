@@ -31,5 +31,9 @@ All source codes are stored in the folder **_src_**.
 
 Results
 -------
-You are supposed to see a video that represents face morphing process, starts from one face image to another face. Or you can try different 
-objects for more interesting images.
+All result videos are stored in the folder **_results_**. Each video shows a face morphing process, starts from the initail face image to the terminal face. Alternatively, you can try different objects for more funny results.       
+
+Below shows a test morphing resuts using a triangular mesh. All intermediate images are obtained via either TPS or Triangulation method.
+<div align=center>
+  <img width="400" height="400" src="./results/eval_test.gif", alt="demo1"/>
+</div>
