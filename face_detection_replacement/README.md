@@ -38,6 +38,17 @@ The pipeline of the whole algorithm is straightforward. Below shows the pipeline
     * Find the appearance difference of the detected face to the warped version of the detected face. This colud be a per-pixel additive offset to **compensate for shadowing and lighting** of the target face. Apply this brightnes/color offset to the warped replacement face to achieve a better appearance match.
     * When dealing with videos, you might expect the faces in the video to **move**. Therefore, exploring methods for motion compensation is highly recommended.
 
+**Pipeline Graph**
+<div align=center>
+ <img width="500" height="300" src="./source images/pipeline.png", alt="pipeline"/>
+</div>
+
+<p >
+<img src = "./result/im_source_2.png?raw=true" width="220" height="300">
+<img src = "./result/im_target_2.jpg?raw=true" width="500" height="300">
+</p>
+
+
 
 
 Usage
