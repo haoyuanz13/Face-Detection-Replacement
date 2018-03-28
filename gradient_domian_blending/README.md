@@ -43,7 +43,7 @@ All resuluts are stored in the folder **_result_**. Below show two simple result
 **_Result 1_**
 
 <p >
-  <img src = "./result/im_source_1.png?raw=true" width="283" height="283">
+  <img src = "./result/im_source_1.png?raw=true" width="320" height="320">
   <img src = "./result/im_target_1.jpg?raw=true" width="500" height="320">
 </p>
 
