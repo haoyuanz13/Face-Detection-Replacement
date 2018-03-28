@@ -52,11 +52,10 @@ All source codes are stored in the folder **_src_** and the main file is **_demo
 
 Result
 ------
-All generated videos are stored in the folder **_result_**. Also, the file **_report.pdf_** covers more algorithm details and analyses. Below shows a successful face detection and replacement for one frame.
+All generated videos are stored in the folder **_result_**. Also, the file **_report.pdf_** covers more algorithm details and analyses.      
+Below shows a successful face detection and replacement for one frame (**Blue contour represents the detected face region**).
 
-
-
-<p >
-<img src = "./result/im_source_2.png?raw=true" width="220" height="300">
-<img src = "./result/im_target_2.jpg?raw=true" width="500" height="300">
-</p>
+* **_Source Image_**
+<div align=center>
+ <img width="780" height="400" src="./result/im_source.png", alt="source face"/>
+</div>
