@@ -1,3 +1,5 @@
+# Gradient Domain Blending
+
 Usage
 -----
 The package mainly focuses on the gradient domain blending based on poisson equation, so that creates a blended image that is partially 
