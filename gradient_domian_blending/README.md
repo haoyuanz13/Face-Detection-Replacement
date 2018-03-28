@@ -47,8 +47,8 @@ All resuluts are stored in the folder **_result_**. Below show two simple result
     <img src = "./result/im_target_1.jpg?raw=true" width="520" height="330">
   </p>
 
-
-<div align=center>
-  <img width="600" height="300" src="./result/panorama.png", alt="panorama"/>
-</div>
+  * **Blended Image**
+  <div align=center>
+    <img width="520" height="330" src="./result/im_res_1.png", alt="blended image"/>
+  </div>
 
