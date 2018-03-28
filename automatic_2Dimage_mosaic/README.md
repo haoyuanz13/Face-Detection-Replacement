@@ -36,7 +36,7 @@ All source code are stored in the folder **_src_**. The **_mosaic_main.m_** is t
 
 Results
 -------
-All results are stored in the folder **_result_**, below shows a simple demo:                
+All results are stored in the folder **_result_**, and feel free to check the result analysis via **_report.pdf_**. Below shows a simple demo:                
 **_Source Images_** (Rotate camera from left to right)
 <p >
   <img src = "./source_imgs/source1.png?raw=true" width="283" height="380">
