@@ -57,5 +57,5 @@ Below shows a successful face detection and replacement for one frame (**Blue co
 
 * **_Source Image_**
 <div align=center>
- <img width="780" height="400" src="./result/im_source.png", alt="source face"/>
+ <img width="760" height="400" src="./result/im_source.png", alt="source face"/>
 </div>
