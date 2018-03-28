@@ -40,3 +40,15 @@ Results
 -------
 All resuluts are stored in the folder **_result_**. Below show two simple results.
 
+**_Result 1_**
+
+<p >
+  <img src = "./result/im_source_1.png?raw=true" width="283" height="283">
+  <img src = "./result/im_target_1.jpg?raw=true" width="500" height="320">
+</p>
+
+
+<div align=center>
+  <img width="600" height="300" src="./result/panorama.png", alt="panorama"/>
+</div>
+
