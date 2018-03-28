@@ -40,7 +40,7 @@ The pipeline of the whole algorithm is straightforward. Below shows the pipeline
 
 **Pipeline Graph**
 <div align=center>
- <img width="500" height="300" src="./source images/pipeline.png", alt="pipeline"/>
+ <img width="782" height="394" src="./source images/pipeline.png", alt="pipeline"/>
 </div>
 
 <p >
