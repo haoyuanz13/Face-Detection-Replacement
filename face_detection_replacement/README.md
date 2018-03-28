@@ -61,7 +61,7 @@ All generated videos are stored in the folder **_result_**. Also, the file **_re
 
 * **_Target Image (two faces)_**
 <div align=center>
- <img width="760" height="370" src="./result/im_target.png", alt="target face"/>
+ <img width="650" height="330" src="./result/im_target.png", alt="target face"/>
 </div>
 
 * **_Replaced Image_**
