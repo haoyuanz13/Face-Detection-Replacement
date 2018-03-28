@@ -41,11 +41,11 @@ Results
 All resuluts are stored in the folder **_result_**. Below show two simple results.
 
 **_Result 1_**
-
-<p >
-  <img src = "./result/im_source_1.png?raw=true" width="330" height="330">
-  <img src = "./result/im_target_1.jpg?raw=true" width="520" height="330">
-</p>
+  * **_Left:_** Source Image with mask; **_Right:_** Taeget Image;
+  <p >
+    <img src = "./result/im_source_1.png?raw=true" width="330" height="330">
+    <img src = "./result/im_target_1.jpg?raw=true" width="520" height="330">
+  </p>
 
 
 <div align=center>
