@@ -47,15 +47,14 @@ The pipeline of the whole algorithm is straightforward. Below shows the pipeline
 
 Execution
 ---------
-Add the package to your catkin workspace as well as its dependencies, execute 'demo.m' directly.
+All source codes are stored in the folder **_src_** and the main file is **_demo.m_**. For thes test, you can use images in the folder **_source images_**, or feel free to choose your own images with a somehow distinguishable face regions for a better performance. 
 
-The package is aimed to detect face region in a image or video, then replace that with our own face automatically.
-All srouce and helper codes store in the src folder, for package test, you can use images in the ssource image folder, or you can 
-choose your own images with a somehow distinguish face part for better result. 
 
 Result
 ------
-Please feel free to take a look at result folder where stores all generated videos, also the report will show you more algorithm details and analysis.
+All generated videos are stored in the folder **_result_**. Also, the file **_report.pdf_** covers more algorithm details and analyses. Below shows a successful face detection and replacement for one frame.
+
+
 
 <p >
 <img src = "./result/im_source_2.png?raw=true" width="220" height="300">
