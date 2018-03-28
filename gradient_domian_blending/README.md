@@ -43,12 +43,12 @@ All resuluts are stored in the folder **_result_**. Below show two simple result
 **_Result 1_**
   * **_Left:_** Source Image with mask; **_Right:_** Taeget Image;
   <p >
-    <img src = "./result/im_source_1.png?raw=true" width="330" height="330">
-    <img src = "./result/im_target_1.jpg?raw=true" width="520" height="330">
+    <img src = "./result/im_source_1.png?raw=true" width="280" height="280">
+    <img src = "./result/im_target_1.jpg?raw=true" width="480" height="280">
   </p>
 
   * **Blended Image**
   <div align=center>
-    <img width="520" height="330" src="./result/im_res_1.png", alt="blended image"/>
+    <img width="480" height="280" src="./result/im_res_1.png", alt="blended image"/>
   </div>
 
