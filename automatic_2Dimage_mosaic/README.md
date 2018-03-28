@@ -39,7 +39,7 @@ Results
 All results are stored in the folder **_result_**, below shows a simple demo:
 **_Source Images_**
 <p >
-  <img src = "./source_imgs/imm1.jpg?raw=true" width="300" height="400">
-  <img src = "./source_imgs/imm2.jpg?raw=true" width="300" height="400">
-  <img src = "./source_imgs/imm3.jpg?raw=true" width="300" height="400">
+  <img src = "./source_imgs/source1.png?raw=true" width="300" height="400">
+  <img src = "./source_imgs/source2.png?raw=true" width="300" height="400">
+  <img src = "./source_imgs/source3.png?raw=true" width="300" height="400">
 </p>
