@@ -46,5 +46,5 @@ All results are stored in the folder **_result_**, below shows a simple demo:
 
 **_Panorama_**
 <div align=center>
-  <img width="800" height="400" src="./Python Version/resEasy/figure_15.png", alt="panorama"/>
+  <img width="800" height="400" src="./result/panorama.png", alt="panorama"/>
 </div>
