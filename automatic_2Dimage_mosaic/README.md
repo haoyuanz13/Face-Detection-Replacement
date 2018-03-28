@@ -39,12 +39,12 @@ Results
 All results are stored in the folder **_result_**, below shows a simple demo:                
 **_Source Images_** (Rotate camera from left to right)
 <p >
-  <img src = "./source_imgs/source1.png?raw=true" width="283" height="400">
-  <img src = "./source_imgs/source2.png?raw=true" width="283" height="400">
-  <img src = "./source_imgs/source3.png?raw=true" width="283" height="400">
+  <img src = "./source_imgs/source1.png?raw=true" width="283" height="380">
+  <img src = "./source_imgs/source2.png?raw=true" width="283" height="380">
+  <img src = "./source_imgs/source3.png?raw=true" width="283" height="380">
 </p>
 
 **_Panorama_**
 <div align=center>
-  <img width="800" height="400" src="./result/panorama.png", alt="panorama"/>
+  <img width="600" height="300" src="./result/panorama.png", alt="panorama"/>
 </div>
