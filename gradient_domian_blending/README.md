@@ -49,7 +49,7 @@ All resuluts are stored in the folder **_result_**. Below show two simple result
 
   * **Blended Image**
   <div align=center>
-    <img width="480" height="280" src="./result/im_res_1.png", alt="blended image"/>
+    <img width="480" height="280" src="./result/im_res_1.png", alt="blended image 1"/>
   </div>
 
 
@@ -62,5 +62,5 @@ All resuluts are stored in the folder **_result_**. Below show two simple result
 
   * **Blended Image**
   <div align=center>
-    <img width="460" height="280" src="./result/im_res_2.png", alt="blended image"/>
+    <img width="500" height="300" src="./result/im_res_2.png", alt="blended image 2"/>
   </div>
