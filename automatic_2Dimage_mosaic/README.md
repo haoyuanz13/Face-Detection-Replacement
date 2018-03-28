@@ -36,10 +36,15 @@ All source code are stored in the folder **_src_**. The **_mosaic_main.m_** is t
 
 Results
 -------
-All results are stored in the folder **_result_**, below shows a simple demo:
-**_Source Images_**
+All results are stored in the folder **_result_**, below shows a simple demo:                
+**_Source Images_** (Rotate camera from left to right)
 <p >
   <img src = "./source_imgs/source1.png?raw=true" width="283" height="400">
   <img src = "./source_imgs/source2.png?raw=true" width="283" height="400">
   <img src = "./source_imgs/source3.png?raw=true" width="283" height="400">
 </p>
+
+**_Panorama_**
+<div align=center>
+  <img width="800" height="400" src="./Python Version/resEasy/figure_15.png", alt="panorama"/>
+</div>
